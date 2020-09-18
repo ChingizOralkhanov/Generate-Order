@@ -1,7 +1,7 @@
 # Generate Order
  Creates a Word docX file with table of products and adds them to DataBase.
 ## Installation
-Download the zip file or clone repository
+Download the zip file or clone repository. Add the InputTemplate to the "C:\User\user\source\repos\Generate Order\Generate Order\bin\Debug" path
 ## Aim
 
 Product was created to produce document template to fasten up workprocess in the daily routine in office.
